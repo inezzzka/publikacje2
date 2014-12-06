@@ -2,7 +2,7 @@ Publikacja nr 1
 
 Tytuł Modele logitowe
 
-Autor Agnieszka Nabagło
+Autor Agnieszka Nabagło i Janek Kowalski
 
 Abstrakt
 cdn
@@ -10,4 +10,8 @@ cdn
 dana
 analiza
 wnioski 
+(to napisze Janek)
+
+
+
 bibliografia
